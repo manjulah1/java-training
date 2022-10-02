@@ -1,0 +1,9 @@
+bin/
+.classpath
+.project
+.settings
+.apt_generated
+.factorypath
+.sts4-cache
+!**/src/main/**/bin/
+!**/src/test/**/bin/
