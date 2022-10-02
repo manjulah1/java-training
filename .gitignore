@@ -1,5 +1,7 @@
-.metadata/*
-/Collection_Question_4/*
+.metadata/
+/Collection_Question_4/bin
+/Collection_Question_4/.idea
+/Collection_Question_4/.settings
 !/Collection_Question_4/src
 
 **/.idea/*
