@@ -1,8 +1,8 @@
-.metadata/
-/Collection_Question_4/bin
-/Collection_Question_4/.idea
-/Collection_Question_4/.settings
+.metadata/.plugins/*
 !/Collection_Question_4/src
+/Collection_Question_4/bin/*
+/Collection_Question_4/.idea/*
+/Collection_Question_4/.settings/*
 
 **/.idea/*
 **/.settings/*
