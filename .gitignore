@@ -1,1 +1,9 @@
 .metadata/*
+/Collection_Question_4/*
+!/Collection_Question_4/src
+
+**/.idea/*
+**/.settings/*
+**/bin/
+**/.classpath
+**/.project
