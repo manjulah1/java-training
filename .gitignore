@@ -1,7 +1,9 @@
 /.metadata/*
 
+**/out/*
 **/.idea/*
 **/.settings/*
 **/bin/
 **/.classpath
 **/.project
+/.metadata/
