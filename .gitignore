@@ -1,5 +1,4 @@
-/.metadata/*
-
+**/.metadata/*
 **/out/*
 **/.idea/*
 **/.settings/*
